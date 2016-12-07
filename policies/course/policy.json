@@ -1,16 +1,19 @@
 {
     "course/course": {
         "advertised_start": "Anytime", 
+        "course_image": "physical-chemistry-iiith.jpg", 
         "discussion_topics": {
             "General": {
                 "id": "i4x-IIITH-ccnsb06-course-ccnsb06"
             }
         }, 
-        "display_name": "Physical Chemistry Lab ", 
+        "display_name": "Physical Chemistry", 
         "instructor_info": {
             "instructors": []
         }, 
+        "language": "en", 
         "learning_info": [], 
+        "start": "2016-09-29T00:00:00Z", 
         "tabs": [
             {
                 "name": "Home", 
@@ -39,8 +42,8 @@
         ], 
         "xml_attributes": {
             "filename": [
-                "course/ccnsb06.xml", 
-                "course/ccnsb06.xml"
+                "course/course.xml", 
+                "course/course.xml"
             ]
         }
     }

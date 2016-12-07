@@ -1,1 +1,26 @@
-{}
+{
+    "physical-chemistry-iiith.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CCNSB06", 
+            "name": "physical-chemistry-iiith.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "physical-chemistry-iiith.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CCNSB06+Anytime+type@asset+block@physical-chemistry-iiith.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CCNSB06", 
+            "thumbnail", 
+            "physical-chemistry-iiith.jpg", 
+            null
+        ]
+    }
+}
