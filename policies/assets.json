@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CCNSB06", 
+            "course": "chemsc07", 
             "name": "physical-chemistry-iiith.jpg", 
-            "org": "IIIT-Hyderabad", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "physical-chemistry-iiith.jpg", 
-        "filename": "asset-v1:IIIT-Hyderabad+CCNSB06+Anytime+type@asset+block@physical-chemistry-iiith.jpg", 
+        "filename": "asset-v1:Virtual-Labs+chemsc07+Anytime+type@asset+block@physical-chemistry-iiith.jpg", 
         "import_path": "physical-chemistry-iiith.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-Hyderabad", 
-            "CCNSB06", 
+            "Virtual-Labs", 
+            "chemsc07", 
             "thumbnail", 
             "physical-chemistry-iiith.jpg", 
             null
