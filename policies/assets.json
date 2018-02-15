@@ -22,5 +22,29 @@
             "physical-chemistry-iiith.jpg", 
             null
         ]
+    }, 
+    "physical_chemistry.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "chemsc07", 
+            "name": "physical_chemistry.jpg", 
+            "org": "Virtual-Labs", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "physical_chemistry.jpg", 
+        "filename": "asset-v1:Virtual-Labs+chemsc07+Anytime+type@asset+block@physical_chemistry.jpg", 
+        "import_path": "physical_chemistry.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Virtual-Labs", 
+            "chemsc07", 
+            "thumbnail", 
+            "physical_chemistry.jpg", 
+            null
+        ]
     }
 }
